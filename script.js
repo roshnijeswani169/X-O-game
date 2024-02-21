@@ -74,3 +74,4 @@ reset.addEventListener('click', ()=>{
     music.pause()
 
 })
+// roshni jeswani
